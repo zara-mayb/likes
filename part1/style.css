@@ -1,0 +1,23 @@
+.container {
+    border: solid black 2px;
+    width: 500px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.likes-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.likebtn {
+    background-color: goldenrod;
+    border: solid black 2px;
+    box-shadow: 2px 2px black;
+    width: 50px;
+    height: 30px;
+    font-weight: bold;
+}
